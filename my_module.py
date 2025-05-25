@@ -40,5 +40,7 @@ def textr():
         print("Reversed text:", reversed_text)
     main()
 
+textr()
+
 
 
